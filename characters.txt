@@ -7,4 +7,6 @@ goldfish
 squirrtel
 butterfly
 magma
+lava
+blastboy
 

@@ -1,1 +1,3 @@
 hi this is me sushil G c
+i love git bash
+git is fun

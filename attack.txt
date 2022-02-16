@@ -1,6 +1,8 @@
 pikachu I choose you first 
 Attacj thunderbolt
-Hp reduce by 50 
+Hp reduce by 50
+Second attack is done
+
 
 
 
